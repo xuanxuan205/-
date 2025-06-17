@@ -1,5 +1,5 @@
 {
     "version": "1.0.1",
-    "download_url": "https://your-domain.com/new_version_installer.exe",
+    "download_url": "https://github.com/xuanxuan205/-/releases/tag/v1.0.0",
     "release_notes": "修复了若干bug，提高了破解效率。\n新增了对RAR5格式的支持。"
 }
