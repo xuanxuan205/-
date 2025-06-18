@@ -1,6 +1,8 @@
  #                   - 密码破解工具
 
-## 简介
+## 简介![QQ_1750253598844](https://github.com/user-attachments/assets/0e350302-835e-46d0-aade-981cd4b43ca8)
+![QQ_1750253569041](https://github.com/user-attachments/assets/fe02fe4a-c0e7-4f65-a489-b5e8ed769b66)
+
 
 SuperCrackerApp 是一个功能强大的密码破解工具，旨在帮助用户恢复各种加密文件的密码。它支持多种文件类型，包括 ZIP、RAR、7z、Office 文档和 PDF 文件，并提供了多种破解模式，包括字典攻击和精确掩码攻击。
 
