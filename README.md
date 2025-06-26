@@ -4,7 +4,7 @@
 
  <img src="https://github.com/user-attachments/assets/2294cef0-444c-4dc5-81d5-811bf4067496" width="500" alt="密码破解工具"> 
 
-
+卸载干净工具v1.0.0：https://wwuu.lanzouo.com/id7P92zfikwd
 
 SuperCrackerApp 是一个功能强大的密码破解工具，旨在帮助用户恢复各种加密文件的密码。它支持多种文件类型，包括 ZIP、RAR、7z、Office 文档和 PDF 文件，并提供了多种破解模式，包括字典攻击和精确掩码攻击。     
 
