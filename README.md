@@ -6,6 +6,8 @@
 
 卸载干净工具v1.0.0：https://wwuu.lanzouo.com/id7P92zfikwd
 
+卸载干净工具v1.0.1：https://wwuu.lanzouo.com/iXwXR2zlid7c
+
 SuperCrackerApp 是一个功能强大的密码破解工具，旨在帮助用户恢复各种加密文件的密码。它支持多种文件类型，包括 ZIP、RAR、7z、Office 文档和 PDF 文件，并提供了多种破解模式，包括字典攻击和精确掩码攻击。     
 
 **免责声明：本工具仅供学习、研究和合法用途。请勿将此工具用于非法活动。使用者需自行承担所有风险和责任。**
